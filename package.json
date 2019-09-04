@@ -1,0 +1,12 @@
+{
+  "name": "await-write",
+  "description": "Await write and end methods of a node writable stream.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:didyhu/await-write.git",
+  "author": "Hu Xiaodi <didyhu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  }
+}
